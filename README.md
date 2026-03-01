@@ -19,3 +19,7 @@ Predict employee attrition using logistic regression.
 
 ## Tool
 Stata 19.5 BE
+
+## Dataset
+Dataset is available from Kaggle:
+https://www.kaggle.com/competitions/hr-churn-competition
