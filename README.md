@@ -92,4 +92,4 @@ Steps:
 ---
 
 ## Author
-T. Tohru
+T.Tohru
