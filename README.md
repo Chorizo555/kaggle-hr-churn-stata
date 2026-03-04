@@ -26,9 +26,7 @@ Files used:
 - `HR_train.csv` – training dataset  
 - `HR_test.csv` – test dataset  
 - `Sample Submission.csv` – submission format template
-- Submission format:
-
-uuid, attrition
+- Submission format : uuid, attrition
 
 Note:  
 Raw datasets are **not included in this repository** due to Kaggle competition rules.
